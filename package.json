@@ -8,8 +8,22 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
-    "express": "^5.1.0"
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1",
+    "sequelize": "^6.37.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trilensuryaningsih/TugasPertemuan2Metro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/trilensuryaningsih/TugasPertemuan2Metro/issues"
+  },
+  "homepage": "https://github.com/trilensuryaningsih/TugasPertemuan2Metro#readme",
+  "description": "",
+  "devDependencies": {
+    "sequelize-cli": "^6.6.2"
   }
 }
